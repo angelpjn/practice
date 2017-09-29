@@ -1,3 +1,6 @@
+
+package nonEx;
+
 public class ConstructorEx2{
     
         String name;

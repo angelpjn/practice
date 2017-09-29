@@ -1,3 +1,6 @@
+
+package nonEx;
+
 public class ClassName{
 
     private String name;
