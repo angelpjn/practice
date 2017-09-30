@@ -1,24 +1,20 @@
-
 package nonEx;
 
-public class ConstructorEx{
-
+public class ConstructorEx {
     String name;
     int age;
 
-    ConstructorEx(){}
+    ConstructorEx() {}
 
-    public String toString(){
-            return "name : "+name+"\tage : "+age;
-    }
+    public String toString() {
+        return "name : " +name + "\tage : "+age;
     
-    public static void main(String[] args){
+    }
 
+    public static void main(String[] args) {
         ConstructorEx c = new ConstructorEx();
         c.age = 20;
-        c.name = "홍 길동";
-
+        c.name = "홍길동";
         System.out.println(c);
-
     }
 }
