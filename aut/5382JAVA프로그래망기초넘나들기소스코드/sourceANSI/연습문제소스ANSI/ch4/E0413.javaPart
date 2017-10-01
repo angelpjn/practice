@@ -1,0 +1,12 @@
+int sumA = 0, sumB = 0, sumC = 0;
+
+for (int i = 0; i < scores.length; i++) {
+	int sum = 0;
+	sumA += scores[i][0]; // Ã¹¹øÂ° °ú¸ñ ÃÑÁ¡
+	sumB += scores[i][1]; // 2¹øÂ° °ú¸ñ ÃÑÁ¡
+	sumC += scores[i][2]; // 3¹øÂ° °ú¸ñ ÃÑÁ¡
+}
+System.out.println("[°¢ °ú¸ñº° ÃÑÁ¡/Æò±Õ] ");
+System.out.println(sumA + " /" + sumB + " /" + sumC);
+System.out
+printf("%.2f//%.2f//%.2f\n", sumA / 4., sumB / 4., sumC / 4.);
