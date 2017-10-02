@@ -4,18 +4,19 @@ package ex.no5678;
 
 class Goods2 implements Taxable {
 
-    double earn;
+    double earn, taxRate;
 
-    public Goods2(double earn) {
+    public Goods2(double earn, double taxRate) {
         this.earn = earn;
+        this.taxRate = taxRate;
     }
 
     public double getIncome(double exemptionAmount) {
-        System.out.println("getIncome 메소드 상속");
+        return earn;
     }
     
     public double tax() {
-        System.out.println("tax 메소드 상속");
+        return taxRate;
     }
     
 }
