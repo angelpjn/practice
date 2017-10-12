@@ -1,3 +1,6 @@
+
+package readInTurn4;
+
 import java.io.IOException;
 
 public class ConsoleInput{

@@ -1,5 +1,5 @@
 
-package exercise;
+package readInTurn4.exercise;
 
     public class No_2 {
         public static void main(String[] args){

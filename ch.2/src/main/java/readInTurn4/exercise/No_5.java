@@ -1,5 +1,5 @@
 
-package exercise;
+package readInTurn4.exercise;
 
 import java.util.Scanner;
 
