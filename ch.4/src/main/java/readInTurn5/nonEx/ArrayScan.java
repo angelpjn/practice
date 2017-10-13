@@ -1,5 +1,5 @@
 
-package roundInTurn5.nonEx;
+package readInTurn5.nonEx;
 
 import java.util.Arrays;
 import java.util.Scanner;

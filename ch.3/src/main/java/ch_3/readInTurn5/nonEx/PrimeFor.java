@@ -1,5 +1,5 @@
 
-package readInTurn5.nonEx;
+package ch_3.readInTurn5.nonEx;
 
 public class PrimeFor {
     public static void main(String[] args) {

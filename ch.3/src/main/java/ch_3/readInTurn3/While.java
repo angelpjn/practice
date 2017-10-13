@@ -1,5 +1,5 @@
 
-package ch_3;
+package ch_3.readInTurn3;
 
 public class While{
     public static void main(String[] args){

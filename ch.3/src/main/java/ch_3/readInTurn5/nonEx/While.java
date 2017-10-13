@@ -1,5 +1,5 @@
 
-package readInTurn5.nonEx;
+package ch_3.readInTurn5.nonEx;
 
 public class While {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 
-package readInTurn5.ex;
+package ch_3.readInTurn5.ex;
 
 import java.util.Scanner;
 

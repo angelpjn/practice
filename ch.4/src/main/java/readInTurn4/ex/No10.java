@@ -1,4 +1,4 @@
-package ex;
+package readInTurn4.ex;
 
 public class No10{
     public static void main(String[] args){

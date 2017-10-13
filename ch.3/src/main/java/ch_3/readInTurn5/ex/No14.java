@@ -1,5 +1,5 @@
 
-package readInTurn5.ex;
+package ch_3.readInTurn5.ex;
 
 public class No14 {
     public static void main(String[] args) {

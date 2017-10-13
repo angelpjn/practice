@@ -1,5 +1,5 @@
 
-package ch_3;
+package ch_3.readInTurn3;
 
 public class For{
     public static void main(String[] args){

@@ -1,5 +1,5 @@
 
-package ex;
+package readInTurn4.ex;
 
 import java.util.Arrays;
 

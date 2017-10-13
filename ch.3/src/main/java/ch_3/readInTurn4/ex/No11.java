@@ -1,5 +1,5 @@
 
-package ex;
+package ch_3.readInTurn4.ex;
 
 public class No11{
 
